@@ -7,3 +7,7 @@ git commit -m 'message'
 git remote add origin 'https://github.com/srinath047/heroku.git'
 git push -u origin master
 git status
+
+i
+esc
+:x! 
