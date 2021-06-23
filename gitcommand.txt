@@ -1,0 +1,9 @@
+move to the folder
+git init
+ls -al
+git add .
+git status
+git commit -m 'message'
+git remote add origin 'https://github.com/srinath047/heroku.git'
+git push -u origin master
+git status
